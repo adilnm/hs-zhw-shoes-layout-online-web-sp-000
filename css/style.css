@@ -302,7 +302,7 @@ footer a {
   text-decoration: underline;
 }
 
-section .shadow {
+ .shadow {
   float: left;
 }
 /* code examples copyright Jonathan Grover 2012 */
