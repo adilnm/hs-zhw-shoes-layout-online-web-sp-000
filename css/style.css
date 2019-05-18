@@ -307,7 +307,7 @@ h2+section{
 }
 
  #years {
-  float: right;
+  float: left;
   width: 20%;
 }
 /* code examples copyright Jonathan Grover 2012 */
