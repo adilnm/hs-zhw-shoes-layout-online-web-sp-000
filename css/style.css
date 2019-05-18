@@ -302,13 +302,4 @@ footer a {
   text-decoration: underline;
 }
 
-h2+section{
-  width: 75%;
-  float: left;
-}
-
- #years {
-  float: left;
-  width: 25%;
-}
 /* code examples copyright Jonathan Grover 2012 */
