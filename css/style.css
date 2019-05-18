@@ -308,5 +308,6 @@ h2+section{
 
  .shadow {
   float: left;
+  width: 25%;
 }
 /* code examples copyright Jonathan Grover 2012 */
