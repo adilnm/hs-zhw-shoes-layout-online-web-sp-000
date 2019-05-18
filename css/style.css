@@ -304,6 +304,7 @@ footer a {
 
 h2+section{
   width: 75%;
+  float: left;
 }
 
  #years {
